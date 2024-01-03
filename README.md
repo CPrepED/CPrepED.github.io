@@ -1,5 +1,3 @@
 # Curso Preparatório para Estruturas de Dados
 
-
-aaaaa
-aaaa
+[index](index.md)
