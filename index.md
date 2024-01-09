@@ -5,9 +5,9 @@ opinião é muito importante.
 [Clique aqui](example.com) e preencha o formulário com suas opiniões, sugestões e horários de interesse.
 
 
-A disciplina de Estruturas de Dados (DCC), famosamente uma das disciplinas com a "maior taxa de retenção", 
-é fonte de sofrimento, angústia e atraso na carreira de muitos alunos, mas curiosamente não de aprendizado. Além disso,
-existe um déficit notável nas disciplinas de Programação e Desenvolvimento de Software 1&2 (DCC&DCC), deixando um
+A disciplina de Estruturas de Dados (DCC205), famosamente uma das disciplinas com a "maior taxa de retenção", 
+é fonte de sofrimento, angústia e atraso na carreira de muitos alunos. Além disso,
+existe um déficit notável nas disciplinas de Programação e Desenvolvimento de Software 1&2 (DCC203&DCC204), deixando um
 número significativo de alunos despreparados para a correria de ED, ou até para uma atuação profissional além da academia.
 
 
