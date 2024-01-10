@@ -1,8 +1,8 @@
 # Curso Preparatório para Estruturas de Dados
 
-**Importante:** Toda a ementa, horários de aula e bibliografia ainda estão para serem definidos, e a sua
-opinião é muito importante. 
-[Clique aqui](example.com) e preencha o formulário com suas opiniões, sugestões e horários de interesse.
+**Importante:** Os horários de aula ainda estão para serem definidos, e a sua
+opinião é muito importante.
+[Clique aqui]([example.com](https://cryptpad.fr/form/#/2/form/view/CGoQWc6GTTtdLZXUFhAcMj8tYzREPodyHe58Z+pFVao/)) e preencha o formulário com suas opiniões, sugestões e horários de interesse.
 
 
 A disciplina de Estruturas de Dados (DCC205), famosamente uma das disciplinas com a "maior taxa de retenção", 
@@ -12,7 +12,7 @@ número significativo de alunos despreparados para a correria de ED, ou até par
 
 
 O Curso Preparatório para Estruturas de Dados (CPrepED) será então uma tentativa *preparar* os alunos para que consigam
-passar nessa disciplina, mas também para que se tornem desenvolvedores de software realmente efetivos. 
+passar nessa disciplina, mas também para ajudar a se tornarem desenvolvedores de software realmente efetivos. 
 
 
 Será um curso de 30 horas-aula, divididas em 5 semanas de 3 aulas (2 horas-aula cada) por semana. Além disso, caso haja
@@ -24,7 +24,7 @@ contendo todo conteúdo de cada aula.
 
 
 O curso toma como pressuposto que o aluno já fez PDS1 e PDS2 ou equivalente. Em particular, é esperado conhecimento básico
-de programação em C, como controle de fluxo (*control flow*), ou seja if, else, while, for.
+de programação em C ao ponto de conseguir construir pequenos programas.
 
 
 Não será esperado nenhum conhecimento em C++.
@@ -48,16 +48,15 @@ detalhes sobre diferenças para C++ estarão inclusos no material escrito.
 
 Para propriamente desenvolver algoritmos, é necessário também um entendimento teórico e matemático dos problemas a
 serem resolvidos. Então a proxima étapa será reforçar a teoria matemática que fundamenta a produção e análise efetiva
-de algoritmos. Nessa parte serão explorados conceitos como análise de complexidade, e estruturas matemáticas discretas, ambas
-com um grau maior de profundidade do que vistas nos cursos.
+de algoritmos. Nessa parte serão explorados conceitos como análise de complexidade, 
+e estruturas matemáticas discretas (grafos, árvores, n-uplas, conjuntos), com um foco na suas relações com o processo de
+desenvolvimento de algoritmos.
 
 
 ### Análise
 
 
-Para manter a prática eficiente e a teoria honesta, é necessário testar uma contra a outra. Portanto, nesta ultima etapa
-será estudado o como efetivamente testar hipóteses teóricas sobre algoritmos, e eficiência prática de implementações.
-
+REESCREVER
 
 Isso inclui testes de performance em memória e tempo, geração e **análise** de gráficos.
 
