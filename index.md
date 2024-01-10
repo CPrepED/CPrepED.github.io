@@ -48,7 +48,9 @@ detalhes sobre diferenças para C++ estarão inclusos no material escrito.
 
 Para propriamente desenvolver algoritmos, é necessário também um entendimento teórico e matemático dos problemas a
 serem resolvidos. Então a proxima étapa será reforçar a teoria matemática que fundamenta a produção e análise efetiva
-de algoritmos. Nessa parte serão explorados conceitos como análise de complexidade, 
+de algoritmos. 
+
+Nessa parte serão explorados conceitos como análise de complexidade, 
 e estruturas matemáticas discretas (grafos, árvores, n-uplas, conjuntos), com um foco na suas relações com o processo de
 desenvolvimento de algoritmos.
 
@@ -56,15 +58,19 @@ desenvolvimento de algoritmos.
 ### Análise
 
 
-REESCREVER
+O processo de desenvolvimento requer uma análise ciêntifica da adequação da teoria à prática, e da corretude da prática em relação
+à teoria. Nesse módulo, serão explorados os métodos de análise de uma implementação, indo de como desenvolver uma análise
+de performance teorica para como demonstrar essa análise na prática utilizando como base o conhecimento das duas primeiras partes.
 
-Isso inclui testes de performance em memória e tempo, geração e **análise** de gráficos.
+Nisso estará incluso a análise experimental de performance, como construir experimentos, e como análisar os dados gerados de
+forma quantitativa ou qualitativa.
 
 
 ## Bibliografia
 
-Em contraposição à insistência do uso do livro desatualizado e abandonado "Projeto de Algoritmos" do professor aposentado Nivio Ziviani, a bibliografia será primariamente
-os seguintes livros:
+**A definir**
+
+A maior parte do curso terá materiais escritos originais, mas a bibliografia base (até agora) para estes são os seguintes livros:
 
 
 * A Linguagem de Programação C, Kernighan & Ritchie
@@ -72,6 +78,5 @@ os seguintes livros:
 * The Art of Computer Programming, Donald Knuth
 
 
-O ultimo desses livros serve apenas como base mais aprofundada. Todo material necessário para estudos será formulado e apresentado **em português**, indicando referências
-para estudo.
+O ultimo desses livros serve apenas como base mais aprofundada. Todo material necessário para estudos será formulado e apresentado **em português**, indicando referências para estudo.
 
