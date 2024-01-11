@@ -2,17 +2,18 @@
 
 **Importante:** Os horários de aula ainda estão para serem definidos, e a sua
 opinião é muito importante.
-[Clique aqui]([example.com](https://cryptpad.fr/form/#/2/form/view/CGoQWc6GTTtdLZXUFhAcMj8tYzREPodyHe58Z+pFVao/)) e preencha o formulário com suas opiniões, sugestões e horários de interesse.
+[Clique aqui](https://cryptpad.fr/form/#/2/form/view/CGoQWc6GTTtdLZXUFhAcMj8tYzREPodyHe58Z+pFVao/) e preencha o formulário com suas opiniões, sugestões e horários de interesse.
 
 
 A disciplina de Estruturas de Dados (DCC205), famosamente uma das disciplinas com a "maior taxa de retenção", 
 é fonte de sofrimento, angústia e atraso na carreira de muitos alunos. Além disso,
-existe um déficit notável nas disciplinas de Programação e Desenvolvimento de Software 1&2 (DCC203&DCC204), deixando um
-número significativo de alunos despreparados para a correria de ED, ou até para uma atuação profissional além da academia.
+as disciplinas de Programação e Desenvolvimento de Software 1&2 (DCC203&DCC204) muitas vezes não são o suficiente
+para alunos que nunca programaram antes, deixando um
+número significativo deles despreparados para a correria de ED, ou até para uma atuação profissional além da academia.
 
 
-O Curso Preparatório para Estruturas de Dados (CPrepED) será então uma tentativa *preparar* os alunos para que consigam
-passar nessa disciplina, mas também para ajudar a se tornarem desenvolvedores de software realmente efetivos. 
+O Curso Preparatório para Estruturas de Dados (CPrepED) será então uma tentativa de *preparar* os alunos para que consigam
+passar nessa disciplina, mas também de ajudar a se tornarem desenvolvedores de software realmente efetivos. 
 
 
 Será um curso de 30 horas-aula, divididas em 5 semanas de 3 aulas (2 horas-aula cada) por semana. Além disso, caso haja
@@ -74,6 +75,7 @@ A maior parte do curso terá materiais escritos originais, mas a bibliografia ba
 
 
 * A Linguagem de Programação C, Kernighan & Ritchie
+* Modern C
 * Algoritmos: Teoria e Prática, Cormen, Leiserson, Rivest, Stein
 * The Art of Computer Programming, Donald Knuth
 
