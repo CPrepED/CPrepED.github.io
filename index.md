@@ -1,10 +1,5 @@
 # Curso Preparatório para Estruturas de Dados
 
-**Importante:** Os horários de aula ainda estão para serem definidos, e a sua
-opinião é muito importante.
-[Clique aqui](https://cryptpad.fr/form/#/2/form/view/CGoQWc6GTTtdLZXUFhAcMj8tYzREPodyHe58Z+pFVao/) e preencha o formulário com suas opiniões, sugestões e horários de interesse.
-
-
 A disciplina de Estruturas de Dados (DCC205), famosamente uma das disciplinas com a "maior taxa de retenção", 
 é fonte de sofrimento, angústia e atraso na carreira de muitos alunos. Além disso,
 as disciplinas de Programação e Desenvolvimento de Software 1&2 (DCC203&DCC204) muitas vezes não são o suficiente
