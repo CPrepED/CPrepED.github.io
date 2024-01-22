@@ -4,7 +4,9 @@ Este curso é um projeto de estudantes da UFMG para preparar alunos para a disci
 
 Nosso foco será reforçar o conhecimento prático ensinado nas disciplinas de PDS I e PDS II (DCC203 e DCC204), e
 resumir alguns aspectos da disciplina de Matemática Discreta (DCC111) de uma perspectiva mais prática, com intuito de auxiliar
-os alunos a passarem na disciplina de Estruturas de Dados (DCC205). Também daremos dicas de estudo e de como formular
+os alunos a passarem na disciplina de Estruturas de Dados (DCC205). 
+
+Também daremos dicas de estudo e de como formular
 relatórios e resolver trabalhos práticos em ED.
 
 ## O Curso
