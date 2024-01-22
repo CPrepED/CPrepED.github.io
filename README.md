@@ -19,7 +19,7 @@ que os alunos possam estudar ao seu tempo e praticar.
 
 Pretendemos seguir o seguinte cronograma, onde as primeiras duas semanas formam um módulo de "Programação Efetiva",
 seguido de um módulo sobre "Matemática Discreta para Algoritmos", e finalizando com um módulo sobre a elaboração de um
-relatório ciêntifico de um trabalho prático.
+relatório científico de um trabalho prático.
 
 Não teremos aulas na semana de carnaval.
 
