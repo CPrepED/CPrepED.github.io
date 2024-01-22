@@ -30,7 +30,7 @@ Não teremos aulas na semana de carnaval.
 | 22/01 | Introdução | 
 | 24/01 | Configuração do Ambiente | 
 | 26/01 | Bash + Git | 
-| - | - | Semana 2 - Programação |
+| - | Semana 2 - Programação |
 | 29/01 | C avançado | 
 | 31/01 | make |
 | 02/02 | GDB+Valgrind |
@@ -43,7 +43,7 @@ Não teremos aulas na semana de carnaval.
 | 19/02 | Grafos | 
 | 21/02 | Arvores |
 | 23/02 | Experimentos |
-| - | - | Semana 5 |
+| - |  Semana 5 |
 | 26/02 | Análise de Resultados |
 | 28/02 | Relatórios |
 | 01/02 | Aula Final |
