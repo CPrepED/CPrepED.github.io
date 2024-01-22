@@ -7,7 +7,7 @@ Bem vindos ao Curso Preparatório para Estruturas de Dados. Aqui eu vou explicar
 
 ## Sobre as ferramentas
 
-As aulas do curso serão aplicadas na plataforma Jitsi Meet, no link https://meet.jit.si/ExcitedCoresUndergoDeliberately. A sala tem senha, que será disponibilizada no grupo
+As aulas do curso serão aplicadas na plataforma Jitsi Meet, que você pode entrar [aqui](https://meet.jit.si/ExcitedCoresUndergoDeliberately). Caso a sala tenha senha, esta será disponibilizada no grupo
 do whatsapp para evitar possíveis bots ou spam.
 
 Em caso de qualquer problema com a plataforma, entre em contato para tentarmos resolver, ou em ultima instância, encontrar outra plataforma.
