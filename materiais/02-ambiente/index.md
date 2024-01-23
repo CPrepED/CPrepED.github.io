@@ -34,7 +34,7 @@ Hoje, todos os sistemas operacionais "principais" possuem algum tipo de gerencia
 
 Como nossos ambientes de desenvolvimento necessitam de bastante estabilidade, e são muito sensíveis a configurações incompletas, é sempre recomendado instalar as ferramentas necessárias com esses gerenciadores de pacotes.
 
-Para os sistemas Linux, existem vários gerenciadores de pacotes diferentes dependendo da distribuição usada, mas os principais são o `dpkg` do Debian e derivados (ou o `apt`, que é apenas um front-end mais fácil de usar desse gerenciador) e  `pacman` (extendido pelo `pamac`) para distribuições baseadas em Arch como Manjaro. Existem outros gerenciadores de pacotes mais "poderosos", como o Flatpak e o Snap.
+Para os sistemas Linux, existem vários gerenciadores de pacotes diferentes dependendo da distribuição usada, mas os principais são o `dpkg` do Debian e derivados (ou o `apt`, que é apenas um front-end mais fácil de usar desse gerenciador) e  `pacman` (extendido pelo `pamac`) para distribuições baseadas em Arch como Manjaro. Existem outros gerenciadores de pacotes mais específicos, como [Flatpak](https://flathub.org/pt-BR) e Snap(https://snapcraft.io/), mas não falaremos sobre eles aqui.
 
 Já para os sistemas Windows, existem dois gerenciadores de pacotes oficiais, a aplicação Microsoft Store e o programa da de linha de comando [WinGet](https://www.theregister.com/2020/05/28/appget_replaced_by_winget_says_dev/). Além deles, também existem outros gerenciadores de pacotes mantidos pela comunidade, como o Chocolatey e o Scoop.
 
@@ -43,9 +43,14 @@ Embora não tenhamos feito um tutorial para o MacOS, o seu gerenciador de pacote
 ### Editores de Texto
 
 Como vocês vão programar em C, precisam de um editor de código competente. O nome "editor de texto" não expressa bem o quão complexo e completo um software desse tipo pode ser, então muitas pessoas chamam sistemas maiores de Integrated Development Environment ("Ambiente de Desenvolvimento Integrado"), ou só IDE. Um editor moderno não serve apenas para ler e escrever em um arquivo de texto com coloração de sintaxe, mas também para executar uma série de funcionalidades para facilitar o
-desenvolvimento de programas.
+desenvolvimento de programas. 
 
-colocar sobre editores de texto aqui.
+Em um lado do spectro, temos editores extremamente básicos como Gedit, Nano ou MS Notepad. Do outro, temos sistemas complexos e cheios de funcionalidades como VSCode, Vim, Emacs e o falecido [Atom](https://github.blog/2022-06-08-sunsetting-atom/).
+
+A funcionalidade mais básica que vai além do conceito de "editor", é o sistema de "compilar e rodar", que hoje em dia vem incluso em quase todo editor de texto. Mas além disso existem várias outras ferramentas especificas de linguagem (geralmente agrupadas em algo chamado Language Server), que podem por exemplo verificar seu código por erros (conhecido como Linter) enquanto você escreve, auto-completar seu código de acordo com a estrutura escrita, e até refatorar o seu programa completamente.
+
+Também existem extensões que integram ferramentas externas como Git, reduzindo o custo de mudança de contexto e adicionando representações visuais dos comandos de terminal. No geral, editores modernos são bem extensíveis, então se é algo programável, e existe demanda, provavelmente existe uma extenção que faz isso.
+
 
 ## Tutoriais
 
