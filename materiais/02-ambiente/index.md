@@ -34,7 +34,7 @@ Hoje, todos os sistemas operacionais "principais" possuem algum tipo de gerencia
 
 Como nossos ambientes de desenvolvimento necessitam de bastante estabilidade, e são muito sensíveis a configurações incompletas, é sempre recomendado instalar as ferramentas necessárias com esses gerenciadores de pacotes.
 
-Para os sistemas Linux, existem vários gerenciadores de pacotes diferentes dependendo da distribuição usada, mas os principais são o `dpkg` do Debian e derivados (ou o `apt`, que é apenas um front-end mais fácil de usar desse gerenciador) e  `pacman` (extendido pelo `pamac`) para distribuições baseadas em Arch como Manjaro. Existem outros gerenciadores de pacotes mais específicos, como [Flatpak](https://flathub.org/pt-BR) e Snap(https://snapcraft.io/), mas não falaremos sobre eles aqui.
+Para os sistemas Linux, existem vários gerenciadores de pacotes diferentes dependendo da distribuição usada, mas os principais são o `dpkg` do Debian e derivados (ou o `apt`, que é apenas um front-end mais fácil de usar desse gerenciador) e  `pacman` (extendido pelo `pamac`) para distribuições baseadas em Arch como Manjaro. Existem outros gerenciadores de pacotes mais específicos, como [Flatpak](https://flathub.org/pt-BR) e [Snap](https://snapcraft.io/), mas não falaremos sobre eles aqui.
 
 Já para os sistemas Windows, existem dois gerenciadores de pacotes oficiais, a aplicação Microsoft Store e o programa da de linha de comando [WinGet](https://www.theregister.com/2020/05/28/appget_replaced_by_winget_says_dev/). Além deles, também existem outros gerenciadores de pacotes mantidos pela comunidade, como o Chocolatey e o Scoop.
 
