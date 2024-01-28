@@ -58,8 +58,103 @@ Aqui vamos mostrar como instalar e configurar os sistemas acima, e como utilizar
 
 ### Ubuntu
 
-~~explicar o porque ubuntu ser debian-like faz explicações de ubuntu valerem pra todo mundo~~
+O Ubuntu é uma distribuição de Linux baseada na distribuição clássica [Debian](https://en.wikipedia.org/wiki/Debian). Ele tem um foco em ser fácil para novatos do Linux, mesmo que as vezes sacrifique controle do usuário.
 
+Por ser baseada no Debian, assim como a maioria das distribuições populares, os mesmos comandos que servem para Ubuntu devem servir no geral para a maioria dos casos. Algumas distribuições baseadas em Debian são Kali, Deepin, Nova, Mint e Elementary.
+
+#### DPKG e APT
+
+
+
+O sistema de pacotes do Debian é o [dpkg](https://www.dpkg.org/). Ele é um sistema extremamente limitado, podendo apenas instalar pacotes já baixados no formato `.deb`. Ele também não consegue baixar dependências em caso de necessidade por um pacote.
+
+Para usar ele, você precisa executar os comandos no terminal, da seguinte forma.
+
+```bash
+sudo dpkg -i pacote.deb # instala o pacote com o nome pacote.deb
+sudo dpkg -r nomepacote # desinstala pacote com esse nome
+```
+
+O comando `sudo` apenas força o resto do comando a rodar como admnistrador. Isso é necessário para utilizar qualquer sistema de gerenciamento de pacotes por questões de segurança.
+
+No geral, ele não é muito útil para um usuário comum. Ao invés dele, a maioria dos usuários utilizam o sistema APT, que é um "front-end" para o dpkg.
+
+O APT é um conjunto de ferramentas que extende e automatiza o processo de baixar um pacote, verificar as dependências e instalar com o dpkg. Ele ainda é utilizado pela linha de comando, mas possui comandos mais "amigáveis". Ele mantêm uma listagem de todos pacotes disponíveis na internet e suas versões.
+
+Para utilizar o APT, o primeiro passo é sempre rodar o comando a seguir:
+
+```bash
+sudo apt-get update
+```
+
+Esse comando força o APT a atualizar a sua listagem de versões disponíveis. Embora não seja estritamente necessário, é uma boa forma de evitar instalar versões ultrapassadas de programas.
+
+Para instalar algum programa, você vai precisar utilizar o comando a seguir:
+
+```bash
+sudo apt-get install nome_do_programa
+```
+
+Caso não haja erros, ele irá pedir uma confirmação, baixar todas as dependências e instalar o programa. Caso o processo seja abortado, o apt automaticamente retorna o sistema ao estado anterior à instalação, então não existe (muito) risco de acidentalmente corromper uma instalação.
+
+Para atualizar e desintalar um programa, você deve usar os dois comandos a seguir espectivamente:
+
+```bash
+sudo apt-get upgrade nome_do_programa
+sudo apt-get remove nome_do_programa
+```
+
+Caso você queira buscar o nome do programa que irá instalar, o apt-get possui um sistema de completação automática. Basta digitar o começo do pacote, e apertar a teclar `TAB`. Mas você pode também executar o comando a seguir para buscar por um pacote dado um pedaço do seu nome.
+
+```bash
+sudo apt-get search me_do_progra
+```
+
+Para obter mais informações sobre um pacote antes de instalar (principalmente para evitar pacotes com [nomes similares](https://superuser.com/questions/784258/whats-the-difference-between-docker-io-and-docker) mas funções bem diferentes), você pode listar mais informações sobre um pacote com:
+
+```bash
+sudo apt-get show nome_do_programa
+```
+
+#### Snap
+
+Além do dpkg, existe também o sistema specificamente para sistemas derivados do Ubuntu, o [Snap](https://snapcraft.io/). Ele geralmente não vai estar presente em sistemas não-derivados do Ubuntu, mas pode ser instalado via apt-get
+
+```bash
+sudo apt-get install snapd
+```
+
+Ele também tem uma loja como interface gráfica.
+
+```bash
+sudo apt-get install snap-store
+```
+
+O Snap foi desenvolvido pela Canonical (empresa desenvolvedora do Ubuntu) para tentar criar uma loja de aplicativos semelhante à Windows Store. Embora seja um sistema [altamente controverso](https://hackaday.com/2020/06/24/whats-the-deal-with-snap-packages/), vamos focar apenas em como usar ele, e como ele é usado "por debaixo dos panos" no Ubuntu.
+
+Para usar o snap, não é necessário atualizar a listagem como no APT. Basta executar os seguintes comandos:
+
+```bash
+sudo snap find nome_do_programa # busca o programa no repositório remoto
+sudo snap install nome_do_programa # instala o programa
+sudo snap remove nome_do_programa # desinstala o programa
+sudo snap refresh # atualiza todos programas
+```
+
+Você também pode instalar aplicativos direto da loja. Basta abrir o programa Snap Store, procurar o pacote que quiser e clicar em instalar.
+
+**inserir imagens**
+
+#### Ubuntu/GNOME Software
+
+A maioria das distribuições baseadas em Debian trazem instaladas consigo um programa gráfico chamado apenas "Software". Esse programa é um front-end que tenta centralizar todos os gerenciadores de pacotes, mas focando especificamente nos chamados "Aplicativos" (programas com interface gráfica). Para a maioria dos programas que vocês forem usar na vida de vocês, podem utilizar essa ferramenta, precisando apenas usar o terminal para intalar programas de terminal ou bibliotecas para
+desenvolvimento.
+
+**inserir imagens**
+
+#### Como instalar ferramentas de desenvolvimento
+
+Durante o a disciplina de ED, vocês irão precisar de um conjunto de ferramentas base para desenvolvimento, mas também é possível que precisem instalar alguns outros softwares de acordo com circunstancias.
 
 ### Manjaro
 
