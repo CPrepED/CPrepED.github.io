@@ -11,3 +11,18 @@
 
 [pdf](03-bash.pdf), [odp](03-bash.odp)
 
+
+### Aula 4 - C
+
+[pdf](04-c.pdf), [odp](04-c.odp)
+
+
+### Aula 5 - Make
+
+[pdf](05-make.pdf), [odp](05-make.odp)
+
+
+### Aula 6 - Valgrind
+
+[pdf](06-valgrind.pdf), [odp](06-valgrind.odp)
+
