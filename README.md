@@ -33,21 +33,21 @@ Não teremos aulas na semana de carnaval.
 | - |  Semana 1 - Ambiente |
 | 22/01 | Introdução | 
 | 24/01 | Configuração do Ambiente | 
-| 26/01 | Bash + Git | 
+| 26/01 | Bash | 
 | - | Semana 2 - Programação |
 | 29/01 | C avançado | 
 | 31/01 | make |
-| 02/02 | GDB+Valgrind |
+| 02/02 | Valgrind |
 | - |  Semana 3 - Algoritmos |
 | 05/02 | Coleções e Estruturas de Dados Básicas |
 | 07/02 | Funções + Algoritmos |
 | 09/02 | Análise Assintótica |
 | Sem Aulas | Semana de Carnaval |
-| - | Semana 4 |
+| - | Semana 4 - Estruturas Relacionais|
 | 19/02 | Grafos | 
 | 21/02 | Arvores |
 | 23/02 | Experimentos |
-| - |  Semana 5 |
+| - |  Semana 5 - Relatórios |
 | 26/02 | Análise de Resultados |
 | 28/02 | Relatórios |
 | 01/02 | Aula Final |
