@@ -39,18 +39,18 @@ Não teremos aulas na semana de carnaval.
 | 31/01 | make |
 | 02/02 | Valgrind |
 | - |  Semana 3 - Algoritmos |
-| 05/02 | Coleções e Estruturas de Dados Básicas |
-| 07/02 | Funções + Algoritmos |
-| 09/02 | Análise Assintótica |
+| 05/02 | **Não teve aula** |
+| 07/02 | Coleções e Estruturas de Dados Básicas |
+| 09/02 | Funções + Algoritmos |
 | Sem Aulas | Semana de Carnaval |
 | - | Semana 4 - Estruturas Relacionais|
-| 19/02 | Grafos | 
-| 21/02 | Arvores |
-| 23/02 | Experimentos |
+| 19/02 | Análise Assintótica | 
+| 21/02 | Grafos |
+| 23/02 | Arvores |
 | - |  Semana 5 - Relatórios |
-| 26/02 | Análise de Resultados |
-| 28/02 | Relatórios |
-| 01/02 | Aula Final |
+| 26/02 | Experimentos |
+| 28/02 | Análise de Resultados |
+| 01/02 | Relatórios |
 
 
 
