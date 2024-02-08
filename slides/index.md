@@ -26,3 +26,8 @@
 
 [pdf](06-valgrind.pdf), [odp](06-valgrind.odp)
 
+### Aula 7 - Coleções
+
+[pdf](07-colecoes.pdf), [odp](07-colecoes.odp)
+
+
