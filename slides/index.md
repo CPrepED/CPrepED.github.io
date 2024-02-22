@@ -30,4 +30,15 @@
 
 [pdf](07-colecoes.pdf), [odp](07-colecoes.odp)
 
+### Aula 8 - Funções
 
+[pdf](08-funcoes.pdf), [odp](08-funcoes.odp)
+
+### Aula 9 - Complexidade 
+
+[pdf](09-complexidade.pdf), [odp](09-complexidade.odp)
+
+### Aula 10 - Grafos 
+
+[pdf](10-grafos.pdf), [odp](10-grafos.odp)
+>>>>>>> ed5dab0 (exercicio)
