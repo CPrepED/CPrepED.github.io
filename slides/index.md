@@ -41,4 +41,11 @@
 ### Aula 10 - Grafos 
 
 [pdf](10-grafos.pdf), [odp](10-grafos.odp)
->>>>>>> ed5dab0 (exercicio)
+
+### Aula 11 - Arvores
+
+[pdf](11-arvores.pdf), [odp](11-arvores.odp)
+
+### Aula 12 - Trabalhos
+
+[pdf](12-trabalhos.pdf), [odp](12-trabalhos.odp)

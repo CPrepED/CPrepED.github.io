@@ -2,6 +2,8 @@
 
 [Exercícios](exercicios/index.md)
 
+[Trabalhos Anteriores](trabalhos/index.md)
+
 # Curso Preparatório para Estruturas de Dados
 
 Este curso é um projeto de estudantes da UFMG para preparar alunos para a disciplina de Estruturas de Dados.
